@@ -5,6 +5,7 @@ I am a **Data Analyst** with experience in Public Sector research & consulting. 
 🚀My mission is to empower decision-making through data & evidence.
 
 Previously, I:
+
 🌐 Consulted **UNESCO** on the use of Impact Assessment tools for AI, setting the global agenda on AI governance.
 
 ↗️ Contributed to **UNIDO's** Industrial Development Report 2024, reviewing current industrial development trends.
