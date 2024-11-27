@@ -1,8 +1,8 @@
 ## Hi, my name is Nikita 👋
 
-I am a **Data Analyst** with experience in research & consulting. I have a BA in PolSci and a Master of Public Administration (MPA).
+I am a **Data Analyst** with experience in research & policy consulting. I have a BA in PolSci and a Master of Public Administration (MPA).
 
-🚀My mission is to empower decision-making through data & evidence.
+My mission is to empower decision-making through data & evidence.
 
 Previously, I:
 
